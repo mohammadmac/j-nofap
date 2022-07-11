@@ -1,12 +1,12 @@
-# nofap
+# j-nofap
 
 Nofap counter with jalali calendar
 
 ## Usage 
 To start an interactive mode and list all available commands do:
 ```sh
-$ ./nofap.py
-[NoFap]>help
+$ ./j-nofap.py
+[J-NoFap]>help
 ```
 * `nr, new record`           Set a new record 
 * `nd, nofap days`           Number of days from last fap 
