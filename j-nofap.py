@@ -6,7 +6,7 @@ import readline
 
 def main():
     print('type \'help\' or \'h\' for more information.')
-    action = input('[NoFap]>')
+    action = input('[J-NoFap]>')
 
     if action in ['nr', 'new record']:
         new_record()
